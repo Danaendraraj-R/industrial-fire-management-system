@@ -1,0 +1,23 @@
+.App {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+table {
+    margin-top: 80px;
+    border: 2px solid white;
+    width: 95%;
+    height: 200px;
+}
+
+th {
+    border-bottom: 1px solid white;
+    color:white;
+    background-color: darkred;
+}
+
+td {
+    text-align: center;
+}

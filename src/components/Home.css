@@ -1,0 +1,20 @@
+.home-bg {
+    background-image: url("https://th.bing.com/th/id/R.0c24829eb1db1b2bb3a8cde61108430d?rik=7XXyaZn4pie3%2fA&riu=http%3a%2f%2fwww.unpezvivo.com%2fproyectos%2fthemeforest%2fagora%2fsans-serif%2fimages%2fhome%2fbackground_7.jpg&ehk=5P06u7mqCmQ0fu9EJm5C%2bU9ngjyByLqsu1r2pHlbQYk%3d&risl=&pid=ImgRaw&r=0");
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin-top: -20px;
+    height:700px;
+    width:1500px;
+}
+.Head{
+    color:white;
+    margin-top: 30px;
+}
+.table-home{
+    margin-left:500px;
+    margin-top: 0px;
+    alignment: left;
+    color: whitesmoke;
+    border: 2px solid transparent;
+    text-align: left;
+}

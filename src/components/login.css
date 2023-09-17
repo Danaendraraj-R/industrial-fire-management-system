@@ -1,0 +1,20 @@
+.main{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    background-color: #070751;
+}
+
+
+.form {
+    position: relative;
+    padding: 60px 15px;
+    width: 500px;
+    height: 550px;
+    overflow: hidden;
+    box-shadow: 0px 0px 10px 0px #020003;
+    border-radius: 5px;
+
+}
+
+
